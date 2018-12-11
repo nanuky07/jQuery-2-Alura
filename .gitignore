@@ -1,14 +1,4 @@
 servidor/node_modules/nedb/test_lac/loadAndCrash.test.js
-servidor/README.md
-servidor/data.db
-servidor/package.json
-servidor/server.js
-servidor/app/api/frases.js
-servidor/app/api/placar.js
-servidor/app/routes/frases.js
-servidor/app/routes/placar.js
-servidor/config/database.js
-servidor/config/express.js
 servidor/node_modules/body-parser/HISTORY.md
 servidor/node_modules/body-parser/LICENSE
 servidor/node_modules/body-parser/README.md
